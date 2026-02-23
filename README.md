@@ -79,7 +79,7 @@ If you geek out about any of these, let’s chat!
 
 - [LinkedIn](https://linkedin.com/in/mustafakursun/)
 - [My Site](https://mustafa-kursun.notion.site/Mustafa-Kur-un-12dbc46fcf4b8076bab1c43a1ce2409c?source=copy_link)
-- [My Writings](https://https://mustafakursun.substack.com/)
+- [My Writings](https://mustafakursun.substack.com/)
 
 ---
 
