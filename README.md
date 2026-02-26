@@ -55,7 +55,7 @@ If you geek out about any of these, let’s chat!
 - **Turkish** (native)
 - **English** (professional)
 - **Indonesian** (professional)
-- **German** (can get by and learning fast!)
+- **German** (can communicate and learning fast!)
 
 ---
 
@@ -78,8 +78,10 @@ If you geek out about any of these, let’s chat!
 ## 🔗 Let's Connect!
 
 - [LinkedIn](https://linkedin.com/in/mustafakursun/)
-- [My Site](https://mustafa-kursun.notion.site/Mustafa-Kur-un-12dbc46fcf4b8076bab1c43a1ce2409c?source=copy_link)
+- [Xing](https://www.xing.com/profile/Mustafa_Kursun5)
+- [Notion Site](https://mustafa-kursun.notion.site/Mustafa-Kur-un-12dbc46fcf4b8076bab1c43a1ce2409c)
 - [My Writings](https://mustafakursun.substack.com/)
+- [Stackoverflow](https://beta.stackoverflow.com/users/9577714/mustafa-kursun)
 
 ---
 
