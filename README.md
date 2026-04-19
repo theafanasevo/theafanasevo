@@ -1,6 +1,6 @@
 # Hey there, I'm Mustafa Kursun 👋
 
-I'm a self-taught developer (with some experience in project management) who enjoys wearing many hats. With 3 years of coding and a year running IT projects, I bring a fresh, practical perspective to tech—rooted in real-world experience and curiosity.
+I'm a self-taught developer (with some project management experience) who enjoys wearing many hats. With 3 years of coding and a year running IT projects, I bring a fresh, practical perspective to tech—rooted in real-world experience and curiosity.
 
 ---
 
@@ -25,16 +25,19 @@ I'm a self-taught developer (with some experience in project management) who enj
 ## 🛠️ Tech I've Used
 
 **Backend:**  
-`Node.js`, `Koa.js`, `Python (Django)`, `PHP (CodeIgniter)`
+`Node.js`, `TypeScript`, `Python (Django)`, `PHP (CodeIgniter)`
 
 **Databases:**  
-`MySQL (MariaDB)`, `PostgreSQL`, `GraphQL`
+`MySQL (MariaDB)`, `PostgreSQL`, `GraphQL`, `DynamoDB`
 
 **Frontend:**  
 `HTML`, `CSS`, `JavaScript`, `Vue.js`
 
 **Cloud & Integrations:**  
-`AWS`, `AlibabaCloud`, `Airtable`, `Zoho`
+`AWS`, `AlibabaCloud`, `Airtable`, `Zoho`, `n8n`
+
+**AI:**
+`Claude Code`, `GitHub Copilot`, `Ollama`, `Qwen Coder`
 
 ---
 
@@ -45,6 +48,8 @@ As a self-taught dev, I realized there were gaps in my engineering know-how. So 
 - Best practices in user interface development
 - Web protocols and APIs (REST, etc.)
 - The core principles of efficient, high-performing web development
+- Agentic AI and software development
+- n8n process automations
 
 If you geek out about any of these, let’s chat!
 
@@ -55,7 +60,7 @@ If you geek out about any of these, let’s chat!
 - **Turkish** (native)
 - **English** (professional)
 - **Indonesian** (professional)
-- **German** (can communicate and learning fast!)
+- **German** (good!)
 
 ---
 
