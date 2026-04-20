@@ -2,6 +2,8 @@
 
 I'm a self-taught developer (with some project management experience) who enjoys wearing many hats. With 3 years of coding and a year running IT projects, I bring a fresh, practical perspective to tech—rooted in real-world experience and curiosity.
 
+[My Personal Website](https://iammus.com)
+
 ---
 
 ## 🚀 What I'm About
